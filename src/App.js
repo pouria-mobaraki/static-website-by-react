@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar.js';
 import Banner from './components/Banner.js';
+import Services from './components/Services.js';
 
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
     <div className="App">
     <Navbar/>
     <Banner/>
-    
+    <Services/>
     </div>
   );
 }
