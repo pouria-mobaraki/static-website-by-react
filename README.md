@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Demo
+click [here](https://pouria-mobaraki.github.io/static-website-by-react/) to see demo
+
 ## Available Scripts
 
 In the project directory, you can run:
