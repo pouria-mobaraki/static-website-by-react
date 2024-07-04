@@ -5,7 +5,7 @@ const Banner = () =>{
     return(
         <div className="banner">
             <div className="banner-info">
-                <h1>WELCOME TO <br/> FULLYWORD TUTORIALS</h1>
+                <h1>WELCOME TO <br/> POURIA TUTORIALS</h1>
                 {/* <p>Make anything possible</p> */}
                 <a href="#services">Explore</a>
                 
